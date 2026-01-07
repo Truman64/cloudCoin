@@ -18,12 +18,7 @@ Welcome to **CLOUDCOIN**, an Expo-based mobile app that demonstrates Google OAut
 
 ---
 
-## Screenshots
-
-*(Add screenshots of Login, Home, and Integrity Status screens here for GitHub preview)*
-
----
-
+ 
 ## Installation & Setup
 
 1. **Clone the repository**
